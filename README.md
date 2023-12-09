@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/imtkaggleteam/nepal-earthquake
 
 
 Todo list: 
-- [ ] : Augment data pour équilibrer les classes
+- [ ] : Augment data pour équilibrer les classes dans le cas multiclasse
 - [ ] : Polynomial feature map + PCA
 - [ ] : Comparer Multiclasse et Regression
 - [ ] : Cross validaiton
